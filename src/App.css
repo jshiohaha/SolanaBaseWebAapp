@@ -1,0 +1,6 @@
+.App {
+  height: 100vh;
+  background-color: #1a202c;
+  overflow: scroll;
+  text-align: center;
+}
